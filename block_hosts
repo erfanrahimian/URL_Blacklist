@@ -1,6 +1,7 @@
 # [push notification service]
 127.0.0.1 app.najva.com
 127.0.0.1 api.pushe.co
+127.0.0.1 cdn.sendpulse.com
 
 # [Customer insight tool]
 127.0.0.1 yotpo.com
