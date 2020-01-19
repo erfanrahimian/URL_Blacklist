@@ -6,6 +6,7 @@
 # [Customer insight tool]
 127.0.0.1 yotpo.com
 127.0.0.1 beta.kaprila.com
+127.0.0.1 cdn.kaprila.com
 127.0.0.1 poparya.com
 127.0.0.1 affstat.adro.co
 127.0.0.1 cdn.sanjagh.net
@@ -14,6 +15,10 @@
 
 # [ad service]
 127.0.0.1 adiran.co
+127.0.0.1 nfetch.yektanet.com
+127.0.0.1 ua.yektanet.com
+127.0.0.1 native.yektanet.com
+127.0.0.1 cdn.yektanet.com
 
 # [unknown]
 127.0.0.1 iranjo.cf
