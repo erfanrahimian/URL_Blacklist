@@ -1,24 +1,24 @@
 # [push notification service]
-127.0.0.1 app.najva.com
-127.0.0.1 api.pushe.co
-127.0.0.1 cdn.sendpulse.com
+0.0.0.0 app.najva.com
+0.0.0.0 api.pushe.co
+0.0.0.0 cdn.sendpulse.com
 
 # [Customer insight tool]
-127.0.0.1 yotpo.com
-127.0.0.1 beta.kaprila.com
-127.0.0.1 cdn.kaprila.com
-127.0.0.1 poparya.com
-127.0.0.1 affstat.adro.co
-127.0.0.1 cdn.sanjagh.net
-127.0.0.1 sanjagh.net
-127.0.0.1 popfa.ir
+0.0.0.0 yotpo.com
+0.0.0.0 beta.kaprila.com
+0.0.0.0 cdn.kaprila.com
+0.0.0.0 poparya.com
+0.0.0.0 affstat.adro.co
+0.0.0.0 cdn.sanjagh.net
+0.0.0.0 sanjagh.net
+0.0.0.0 popfa.ir
 
 # [ad service]
-127.0.0.1 adiran.co
-127.0.0.1 nfetch.yektanet.com
-127.0.0.1 ua.yektanet.com
-127.0.0.1 native.yektanet.com
-127.0.0.1 cdn.yektanet.com
+0.0.0.0 adiran.co
+0.0.0.0 nfetch.yektanet.com
+0.0.0.0 ua.yektanet.com
+0.0.0.0 native.yektanet.com
+0.0.0.0 cdn.yektanet.com
 
 # [unknown]
-127.0.0.1 iranjo.cf
+0.0.0.0 iranjo.cf
