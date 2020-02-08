@@ -1,21 +1,98 @@
 # [push notification service]
-app.najva.com
-api.pushe.co
-cdn.sendpulse.com
+0.0.0.0 app.najva.com
+0.0.0.0 api.pushe.co
+0.0.0.0 cdn.sendpulse.com
 # [Customer insight tool]
-yotpo.com
-beta.kaprila.com
-cdn.kaprila.com
-poparya.com
-affstat.adro.co
-cdn.sanjagh.net
-sanjagh.net
-popfa.ir
+0.0.0.0 yotpo.com
+0.0.0.0 beta.kaprila.com
+0.0.0.0 cdn.kaprila.com
+0.0.0.0 poparya.com
+0.0.0.0 affstat.adro.co
+0.0.0.0 cdn.sanjagh.net
+0.0.0.0 sanjagh.net
+0.0.0.0 popfa.ir
 # [ad service]
-adiran.co
-nfetch.yektanet.com
-ua.yektanet.com
-native.yektanet.com
-cdn.yektanet.com
+0.0.0.0 adiran.co
+0.0.0.0 nfetch.yektanet.com
+0.0.0.0 ua.yektanet.com
+0.0.0.0 native.yektanet.com
+0.0.0.0 cdn.yektanet.com
 # [unknown]
 0.0.0.0 iranjo.cf
+
+# https://raw.githubusercontent.com/farrokhi/adblock-iran/master/pihole.txt
+# update: 15 Sept 2019
+0.0.0.0 1000click.ir
+0.0.0.0 ad.nowaroos.com
+0.0.0.0 ad.utop.ir
+0.0.0.0 adment.space
+0.0.0.0 adnegah.net
+0.0.0.0 adro.co
+0.0.0.0 ads.sahandar.com
+0.0.0.0 adtube.ir
+0.0.0.0 adziran.gq
+0.0.0.0 anetwork.ir
+0.0.0.0 banner.dabi.ir
+0.0.0.0 c3.gostats.ir
+0.0.0.0 clickbux.ir
+0.0.0.0 clickyab.com
+0.0.0.0 coding.1100011.ir
+0.0.0.0 congoro.com
+0.0.0.0 core.clix.ir
+0.0.0.0 dariconline.ir
+0.0.0.0 deema.agency
+0.0.0.0 e.weclick.ir
+0.0.0.0 fastclick.ir
+0.0.0.0 foxpush.net
+0.0.0.0 gostats.ir
+0.0.0.0 hackerz.ir
+0.0.0.0 irandigitalads.com
+0.0.0.0 iranweb.click
+0.0.0.0 irblue.ml
+0.0.0.0 irgreen.ml
+0.0.0.0 irjo.ga
+0.0.0.0 irpopup.ir
+0.0.0.0 js.foxpush.com
+0.0.0.0 kaprila.com
+0.0.0.0 khf.nz
+0.0.0.0 kimexa.com
+0.0.0.0 laleh.itrc.ac.ir
+0.0.0.0 magnetadservices.com
+0.0.0.0 mediaad.org
+0.0.0.0 mesearch.xyz
+0.0.0.0 netbina.com
+0.0.0.0 nutnet.ir
+0.0.0.0 p30rank.ir
+0.0.0.0 paypop.org
+0.0.0.0 poparya.com
+0.0.0.0 popbox.skinak.ir
+0.0.0.0 popmaster.ir
+0.0.0.0 popupha.com
+0.0.0.0 popupme.net
+0.0.0.0 popupplus.ir
+0.0.0.0 qoo.sh
+0.0.0.0 r.hitplus.ir
+0.0.0.0 radar.bayan.ir
+0.0.0.0 randewoo.ir
+0.0.0.0 rzb.ir
+0.0.0.0 s.hitplus.ir
+0.0.0.0 sabavision.com
+0.0.0.0 sigmaad.com
+0.0.0.0 ssads.net
+0.0.0.0 static.clix.ir
+0.0.0.0 tapsell.ir
+0.0.0.0 te1.ir
+0.0.0.0 toppopup.com
+0.0.0.0 up.video-learn.net
+0.0.0.0 uploado.xyz
+0.0.0.0 vista.ir
+0.0.0.0 weclick.ir
+0.0.0.0 widget.congoro.com
+0.0.0.0 widgets.takhfifan.com
+0.0.0.0 wikiforosh.ir
+0.0.0.0 www.persianstat.ir
+0.0.0.0 www.randewoo.ir
+0.0.0.0 www.webgozar.ir
+0.0.0.0 yasell.biz
+0.0.0.0 yektanet.com
+0.0.0.0 zarpop.com
