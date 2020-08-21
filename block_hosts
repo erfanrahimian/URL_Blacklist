@@ -2,6 +2,7 @@
 0.0.0.0 app.najva.com
 0.0.0.0 api.pushe.co
 0.0.0.0 cdn.sendpulse.com
+0.0.0.0 popupaval.ir
 # [Customer insight tool]
 0.0.0.0 yotpo.com
 0.0.0.0 beta.kaprila.com
@@ -20,6 +21,10 @@
 0.0.0.0 cloudir.cf
 0.0.0.0 cloudirs.cf
 0.0.0.0 creative.magnetadservices.com
+0.0.0.0 tr1.magnetadservices.com
+0.0.0.0 cnt1.magnetadservices.com
+0.0.0.0 srv.magnetadservices.com
+0.0.0.0 static.magnetadservices.com
 # [unknown]
 0.0.0.0 iranjo.cf
 0.0.0.0 dsnxvnkxyimczk.com
